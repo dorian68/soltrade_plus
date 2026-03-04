@@ -1,4 +1,4 @@
-apscheduler==3.10.1
+﻿apscheduler==3.10.1
 backtrader==1.9.78.123
 base58==2.1.1
 httpx==0.23.3
@@ -8,3 +8,8 @@ solana==0.29.0
 matplotlib==3.8
 solders==0.14.4
 python-dotenv==1.0.1
+soltrade @ git+https://github.com/nmweaver/soltrade
+streamlit>=1.29
+optuna>=3.5
+python-telegram-bot>=20.6
+ccxt>=4.0
